@@ -1,0 +1,1 @@
+console.log('加载了 test.js文件');
